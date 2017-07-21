@@ -1,0 +1,92 @@
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+.body{
+	background-size: 100% 400%;
+    background-repeat: no-repeat;
+	color:#FFFFF;
+	font-size:24;
+}
+
+
+.h1{
+	background:#6c6d71;
+	padding: 20px 0px 20px 0px;
+	text-align: center;
+	font-size:30px;
+	font-weight:bold;
+	font-family: "Courier";
+	border-radius: 25px;
+}
+
+.text{
+	padding: 20px 0px 20px 0px;
+	text-align: center;
+}
+
+.hiddenDiv{
+	visibility: hidden;
+}
+
+.shownDiv{
+	visibility: visible;
+}
+
+.shop{
+	border-style: solid;
+	border-width: 2px;
+	text-indent:5px;
+	border-radius: 25px;
+}
+
+.UserSection{
+	border-style: solid;
+	border-width: 2px;
+	text-indent:5px;
+	border-radius: 25px;
+}
+
+input{
+	margin:5px
+}
+
+.weatherBox{	
+	margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+	text-align: center;
+	border-radius: 25px;
+}
+
+.Player1{
+    width: 300px;
+    border: 3px solid #73AD21;
+    padding: 10px;
+	border-radius: 25px;
+}
+
+.Player2{
+    width: 300px;
+    border: 3px solid #73AD21;
+    padding: 10px;
+	border-radius: 25px;
+}
+
+.mainBody{
+	font-family: "Courier";
+}
+
+.sun{
+	position:0,0;
+	position:absolute;
+	width:85%
+}
+
+badWeather{
+	position:0,0;
+	position:absolute;
+}

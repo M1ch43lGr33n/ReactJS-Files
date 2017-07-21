@@ -1,0 +1,48 @@
+h2, h3, h4, footer {
+    font-family: 'Changa One', cursive;
+}
+
+h1 {
+    font-family: 'Changa One', cursive;
+    color: rgb(255, 247, 43);
+    margin: 0;
+}
+
+.top-bar {
+    background-color: rgb(0, 0, 0);
+}
+
+.top-bar ul {
+    background-color: rgb(0, 0, 0);
+}
+
+ul li a.pageLink {
+    font-family: 'Changa One', cursive;
+    color: rgb(255, 247, 43);
+}
+
+ul li a.pagelink:hover {
+    font-family: 'Changa One', cursive;
+    color: rgb(0, 0, 0);
+}
+
+footer {
+    height: 3em;
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 247, 43);
+    clear: both;
+}
+
+.items {
+  background-color: rgb(255, 247, 43);
+}
+
+.items li a {
+  color: rgb(0, 0, 0);
+}
+
+.items li a:hover {
+  color: rgb(255, 247, 43);
+  background-color: rgb(0, 0, 0);
+}
